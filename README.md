@@ -2,7 +2,6 @@
 🔭 I’m a structural engineer who got inspired to learn software development due to the circumstances I found myself in. Since 2017 I am working in software development mostly in the web space; I've worked with multiple start ups building SaaS, APIs and blockchain. I also dabbled with Machine Learning and LLMs.
 <br>💬 Ask me how I did it
 <br>🌱 I’m currently learning C++
-<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
