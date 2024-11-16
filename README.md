@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I specialise as a Senior Computational Engineer. My role typically involves applying principles of software architecture and design, mapping business cases into requirements, object modeling, and applications development, among others, in building and developing digital solutions for engineering design problems. I combine my knowledge and skills from structural and software engineering. Whether in the development of calculation tools, the integration with other apps, or into workflow automation, I maximise the use of digital technology to deliver engineering projects more efficiently.
+🔭 I specialise as a **Senior Computational Engineer**. My role typically involves applying principles of software architecture and design, mapping business cases into requirements, object modeling, and applications development, among others, in building and developing digital solutions for engineering design problems. I combine my knowledge and skills from **structural and software engineering**. Whether in the **development of calculation tools, the integration with other apps, or into workflow automation**, I maximise the use of digital technology to deliver engineering projects more efficiently.
+
 <br>💬 Join my Discord server (link below) if you're working on (interested) this space.
 <br>🌱 I’m currently learning C++
 
