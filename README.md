@@ -1,12 +1,12 @@
-# 💫 About Me:
-🔭 I specialise as a **Senior Computational Engineer**. My role typically involves applying principles of software architecture and design, mapping business cases into requirements, object modeling, and applications development, among others, in building and developing digital solutions for engineering design problems. I combine my knowledge and skills from **structural and software engineering**. Whether in the **development of calculation tools, the integration with other apps, or into workflow automation**, I maximise the use of digital technology to deliver engineering projects more efficiently.
+# 📝 About Me:
+I specialise as a **Senior Computational Engineer**. My role typically involves applying principles of software architecture and design, mapping business cases into requirements, object modeling, and applications development, among others, in building and developing digital solutions for engineering design problems. I combine my knowledge and skills from **structural and software engineering**. Whether in the **development of calculation tools, the integration with other apps, or into workflow automation**, I maximise the use of digital technology to deliver engineering projects more efficiently.
 
-<br/>💬 Join my Discord server (link below) if you're working on (interested) this space.
+<br/>💬 I'm building a **[Discord Community](https://discord.gg/GJD7PjptnW)** where you may join if you're interested this space.
 <br/>🌱 I’m currently learning **C++** and **TypeScript**
 
 ---
 
-## Languages and Tech Stack
+## 🧰 Languages and Tech Stack
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -26,7 +26,7 @@
 <br/>
 
 #
-### Other Tools
+### 🛠️ Other Tools
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
@@ -47,11 +47,11 @@
 
 ---
 
-### 🌐 Socials:
+### 🤝 Let's Connect:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AUJjtJBS) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricomiguelldalistan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Enrico_Miguel)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GJD7PjptnW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricomiguelldalistan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Enrico_Miguel)
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Icomanman&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Icomanman&theme=dracula&hide_border=false)<br/>
