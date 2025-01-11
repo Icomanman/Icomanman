@@ -7,7 +7,7 @@
 ---
 
 ## Languages and Tech Stack
-<div style="background-color: #5a5a5a; padding: 10px; height: 30px; border: 2px solid #000; border-radius: 10px">
+<!-- <div style="background-color: #5a5a5a; padding: 10px; height: 30px; border: 2px solid #000; border-radius: 10px"> -->
 
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -33,11 +33,13 @@
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
-</div>
+<!-- </div> -->
+
+
 <br>
 
 ### Other Tools
-<div style="background-color: white; padding: 10px; height: 30px; border: 2px solid #000; border-radius: 10px; width: auto;">
+<!-- <div style="background-color: white; padding: 10px; height: 30px; border: 2px solid #000; border-radius: 10px; width: auto;"> -->
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
@@ -55,7 +57,8 @@
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
-</div>
+
+<!-- </div> -->
 
 ##
 
