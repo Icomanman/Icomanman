@@ -1,5 +1,5 @@
 # 📝 About Me:
-I build systems that solve real problems. My background spans structural engineering, software development and applied AI. Imagine automation tools, engineering software and AI applications.
+I build practical engineering systems by combining domain expertise, software architecture, and modern AI tools. My background spans structural engineering, software development and applied AI. Imagine automation tools, engineering software and AI applications.
 
 <br/>I'm building an open-source engineering community **[Open Calc Forge](https://discord.gg/GJD7PjptnW)** where you are welcome to join if you're interested in this space.
 <br/>Also check out my YouTube channel **[Structures and Systems](https://www.youtube.com/@structuresandsystems)** where I share some of my work and lessons learned.
