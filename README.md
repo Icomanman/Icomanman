@@ -61,4 +61,4 @@ I build practical engineering systems by combining domain expertise, software ar
 ---
 
 ## 📈 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Icomanman&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
